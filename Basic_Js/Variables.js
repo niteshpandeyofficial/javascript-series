@@ -12,3 +12,5 @@ branchName= "Thane"
 state = "UP"
 console.log(accountNumber);
 console.table([accountNumber,bankName,branchName,state]);
+
+
